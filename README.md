@@ -2,6 +2,13 @@
 
 I am an very begining algorithm engineer in the remote sensing industry. My interest lies in optimizing the processing speed of huge remote sensing data and applying deep learning algorithm to extract useful information from remote sensing images. 
 
+<!-- #### Education
+**MA** in department of [Land Resource Management](http://cpa.hust.edu.cn/jytd/tdglx.htm) in [Huazhong University of Science and Technology](https://www.hust.edu.cn), jointly trained by the [Land Satellite Remote Sensing Application Center, MNR (Minstry of Nature Resources)](http://www.lasac.cn)
+
+BA in department of [Optical and Electronic Information](http://oei.hust.edu.cn) in [Huazhong University of Science and Technology](https://www.hust.edu.cn) -->
+
+
+
 - 🌱 Here are few published papers from my early years in school:
 
 [Urban Land Expansion Simulation Considering the Diffusional and Aggregated Growth Simultaneously: A Case Study of Luoyang City](https://www.mdpi.com/2071-1050/13/17/9781 )
