@@ -1,6 +1,6 @@
 ## Yujia Li
 
-I am an very begining algorithm engineer in the remote sensing industry. My interest lies in optimizing the processing speed of huge remote sensing data and applying deep learning algorithm to extract useful information from remote sensing images. 
+I am a very begining algorithm engineer in the remote sensing industry. My interest lies in optimizing the processing speed of huge remote sensing data and applying deep learning algorithm to extract useful information from remote sensing images. 
 
 <!-- #### Education
 * **MA** in department of [Land Resource Management](http://cpa.hust.edu.cn/jytd/tdglx.htm) in [Huazhong University of Science and Technology](https://www.hust.edu.cn), jointly trained by the [Land Satellite Remote Sensing Application Center, MNR (Minstry of Nature Resources)](http://www.lasac.cn)
