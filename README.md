@@ -1,6 +1,6 @@
 ## Yujia Li
 
-I am an algorithm engineer in the remote sensing industry. My interest lies in optimizing the processing speed of huge remote sensing data and applying deep learning algorithm. 
+I am an very begining algorithm engineer in the remote sensing industry. My interest lies in optimizing the processing speed of huge remote sensing data and applying deep learning algorithm to extract useful information from remote sensing images. 
 
 - 🌱 Here are few published papers from my early years in school:
 
