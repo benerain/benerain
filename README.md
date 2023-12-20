@@ -10,6 +10,7 @@ I am a very begining algorithm engineer in the remote sensing industry. My inter
 
 
 - 🌱 Here are few published papers from my early years in school:
+- [星载单光子激光雷达浅水测深技术研究进展和展望](http://www.irla.cn/cn/article/doi/10.3788/IRLA20220003)
 
 [Urban Land Expansion Simulation Considering the Diffusional and Aggregated Growth Simultaneously: A Case Study of Luoyang City](https://www.mdpi.com/2071-1050/13/17/9781 )
 
